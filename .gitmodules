@@ -1,0 +1,6 @@
+[submodule "DarwinNotificationConsumer"]
+	path = DarwinNotificationConsumer
+	url = ../DarwinNotificationConsumer
+[submodule "DarwinNotificationProducer"]
+	path = DarwinNotificationProducer
+	url = ../DarwinNotificationProducer
